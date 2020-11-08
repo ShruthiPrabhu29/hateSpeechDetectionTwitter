@@ -11,14 +11,14 @@ We have used the twitter dataset which contains the actual tweets for the IDs gi
 
 Requirements
 
-Keras
-Tensorflow 
-Gensim
-xgboost
-NLTK
-Sklearn
+Keras,
+Tensorflow,
+Gensim,
+xgboost,
+NLTK,
+Sklearn,
 Numpy
 
 Instructions to run
  You can check the file replicationCommands.doc for running the baseline methods.
- You can check the Jupyter Notebooks for running our methods. 
+ You can also check the Jupyter Notebooks for running our methods. 
