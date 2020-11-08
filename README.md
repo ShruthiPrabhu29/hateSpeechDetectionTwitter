@@ -19,6 +19,6 @@ NLTK,
 Sklearn,
 Numpy
 
-Instructions to run
+Instructions to run:
  You can check the file replicationCommands.doc for running the baseline methods.
  You can also check the Jupyter Notebooks for running our methods. 
