@@ -10,8 +10,9 @@ We have used the twitter dataset which contains the actual tweets for the IDs gi
 (Original Dataset can also be downloaded from https://github.com/zeerakw/hatespeech. Contains tweet id's and corresponding annotations. Use your favourite tweet crawler and download the data and place the tweets in the csv file.)  
 
 Requirements
+
 Keras
-Tensorflow or Theano (we experimented with theano)
+Tensorflow 
 Gensim
 xgboost
 NLTK
@@ -19,4 +20,5 @@ Sklearn
 Numpy
 
 Instructions to run
- You can check the file replicationCommands.doc for running the files.
+ You can check the file replicationCommands.doc for running the baseline methods.
+ You can check the Jupyter Notebooks for running our methods. 
