@@ -12,7 +12,7 @@ We have used the twitter dataset which contains the actual tweets for the IDs gi
 Requirements
 
 Keras,
-Tensorflow,
+Tensorflow / Theano,
 Gensim,
 xgboost,
 NLTK,
